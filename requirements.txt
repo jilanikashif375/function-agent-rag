@@ -1,0 +1,9 @@
+llama-index
+llama-index-embeddings-ollama
+llama-index-llms-ollama
+llama-index-readers-file
+llama-index-retrievers-bm25
+python-dotenv
+streamlit
+fastapi
+uvicorn
